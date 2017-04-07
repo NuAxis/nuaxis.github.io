@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nuaxis
 ---
 
 {% include _analytics.html %}
