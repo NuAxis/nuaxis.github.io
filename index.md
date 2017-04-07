@@ -2,7 +2,6 @@
 layout: nuaxis
 ---
 
-{% include _analytics.html %}
 
 # NuAxis Open Source
 
